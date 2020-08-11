@@ -1,4 +1,4 @@
-# chumkin
+# Chumkin
 
 A chatting app (Instagram Clone)
 
